@@ -60,6 +60,7 @@ if (comensales==1){
         cortes(this.chorizo,"Chorizo",this.nombre),
         cortes(this.morcilla,"Morcilla",this.nombre)
         );
+    alert("Ahora ingresa los datos del segundo comensal");
     comensal2=new Comensal (
         this.nombre=prompt("Ingrese el nombre del segundo comensal:"),
         cortes(this.vacio,"Vacio",this.nombre),
@@ -79,6 +80,7 @@ if (comensales==1){
         cortes(this.chorizo,"Chorizo",this.nombre),
         cortes(this.morcilla,"Morcilla",this.nombre)
         );
+    alert("Ahora ingresa los datos del segundo comensal");
     comensal2=new Comensal (
         this.nombre=prompt("Ingrese el nombre del segundo comensal:"),
         cortes(this.vacio,"Vacio",this.nombre),
@@ -86,6 +88,7 @@ if (comensales==1){
         cortes(this.chorizo,"Chorizo",this.nombre),
         cortes(this.morcilla,"Morcilla",this.nombre)
         );
+    alert("Ahora ingresa los datos del tercer comensal");
     comensal3=new Comensal (
         this.nombre=prompt("Ingrese el nombre del tercer comensal:"),
         cortes(this.vacio,"Vacio",this.nombre),
